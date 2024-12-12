@@ -8,14 +8,14 @@ Included in the [Venture](https://github.com/steves-underwater-paradise/venture)
 ## Compatibility
 
 - Connected textures ([OptiFine format](https://optifine.readthedocs.io/ctm.html)): Some textures
-  - [Continuity](https://github.com/PepperCode1/Continuity)
+  - [Continuity](https://modrinth.com/mod/continuity)
   - [OptiFine](https://optifine.net)
   - See also [OptiFine Alternatives](https://optifine.alternatives.lambdaurora.dev)
 - [Particle Rain](https://modrinth.com/mod/particle-rain): Some textures (30% complete)
 - [Big Globe](https://modrinth.com/mod/big-globe): Some textures (1% complete)
 - [Regions Unexplored](https://modrinth.com/mod/regions-unexplored): Some textures (1% complete)
 - [Twigs](https://modrinth.com/mod/twigs): Some textures (1% complete)
-- [Universal Ores](https://modrinth.com/mod/universal-ores): Some textures (1% complete)
+- [Universal Ores](https://modrinth.com/mod/universal_ores): Some textures (1% complete)
 
 ## Incompatibilities
 
