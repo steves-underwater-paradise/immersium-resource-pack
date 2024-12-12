@@ -1,8 +1,8 @@
 {
 	"textures": [
-		"immersium:snow_flake/snow_flake_1",
-		"immersium:snow_flake/snow_flake_2",
-		"immersium:snow_flake/snow_flake_3",
-		"immersium:snow_flake/snow_flake_4"
+		"replete:snow_flake/snow_flake_1",
+		"replete:snow_flake/snow_flake_2",
+		"replete:snow_flake/snow_flake_3",
+		"replete:snow_flake/snow_flake_4"
 	]
 }
